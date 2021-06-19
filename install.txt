@@ -1,0 +1,5 @@
+# KICKS Install
+/$CA
+$HASP000 OK;sh ./submit.sh ../SOFTWARE/CBT457/01_install_lunar.jcl
+/ $HASP395 LUNAR ENDED;sh ./submit.sh ../SOFTWARE/CBT457/02_install_test.jcl
+# Install complete
