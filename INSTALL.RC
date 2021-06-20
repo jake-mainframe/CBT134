@@ -1,0 +1,3 @@
+* Installing CBT134 GAMES
+* Launching Automation REXX script
+exec ../automate.rexx ../SOFTWARE/CBT134/install.txt hercules.log -d &&
